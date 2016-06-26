@@ -3,3 +3,6 @@
 !Fjern annoncelight.dk reklamer i toppen
 annoncelight.dk###content > .top-buffer-15.page-content.container > .row:nth-of-type(3)
 annoncelight.dk###content > .top-buffer-55.container > .row
+
+!Fjern sexpiger.dk reklamer i toppen
+a[href=adfarm.mediaplex.com]
