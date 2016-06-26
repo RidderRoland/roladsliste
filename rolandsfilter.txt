@@ -9,3 +9,11 @@ a[href=adfarm.mediaplex.com]
 
 !fjern massage247.dk reklamer. Pas på med dette site da de forsøger canvas fingerprinting
 massage24-7.dk###content > .content.row * .textlink
+
+!fjern escort5.dk reklamer
+escort5.dk##* a[href="www.bdsmporten.dk"]
+||www.escort5.dk/admin/banner/
+escort5.dk##.box-soeg
+!Fjern banner fra nogle externe sites
+||www.holidaysexguide.com/*$image
+||openadultdirectory.com/*$image
