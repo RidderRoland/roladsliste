@@ -3,8 +3,9 @@
 !!!! Deltag i opbygningen af listen!!!!
 
 !fra annoncelight 
-annoncelight.dk## div[data-id="205469"]
+annoncelight.dk## div[data-id="205469"],div[data-id="210179"]
 ||annoncelight.dk/showad/205469$document
+||annoncelight.dk/showad/210179$document
 
 !fra escortguide.dk
 ||escortguide.dk/P/suzanna-is-back--29051.html$document
