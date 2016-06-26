@@ -11,9 +11,9 @@ a[href=adfarm.mediaplex.com]
 massage24-7.dk###content > .content.row * .textlink
 
 !fjern escort5.dk reklamer
-escort5.dk##* a[href="www.bdsmporten.dk"]
 ||www.escort5.dk/admin/banner/
-escort5.dk##.box-soeg
-!Fjern banner fra nogle externe sites
+escort5.dk##.box-soeg:nth-of-type(3)
+escort5.dk##.box-soeg:nth-of-type(4)
+escort5.dk##.box-soeg:nth-of-type(5)
 ||www.holidaysexguide.com/*$image
 ||openadultdirectory.com/*$image
