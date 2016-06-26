@@ -4,5 +4,8 @@
 annoncelight.dk###content > .top-buffer-15.page-content.container > .row:nth-of-type(3)
 annoncelight.dk###content > .top-buffer-55.container > .row
 
-!Fjern sexpiger.dk reklamer i toppen
+!Fjern sexpiger.dk reklamer i toppen. Fjerner også nogle massage247.dk reklamer
 a[href=adfarm.mediaplex.com]
+
+!fjern massage247.dk reklamer. Pas på med dette site da de forsøger canvas fingerprinting
+massage24-7.dk###content > .content.row * .textlink
