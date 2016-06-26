@@ -1,2 +1,13 @@
+!Liste over formodede fupmagere identificeret på talk2us.dk, eroguide.dk og massageplus.dk/forum. Du kan komme af listen ved at tilmelde dig github
+
+!!!! Deltag i opbygningen af listen!!!!
+
+!fra annoncelight 
 annoncelight.dk## div[data-id="205469"]
 ||annoncelight.dk/showad/205469$document
+
+!fra escortguide.dk
+||escortguide.dk/P/suzanna-is-back--29051.html$document
+escortguide.dk##*[href="/P/suzanna-is-back--29051.html"]
+||escortguide.dk/P/erika-28615.html$document
+www.escortguide.dk##.search-profile * a[href="/P/erika-28615.html"]
