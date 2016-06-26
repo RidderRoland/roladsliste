@@ -6,3 +6,11 @@ Har du optaget falske annonceprofiler bedes du anmelde og diskuttere dine fund p
 
 Når en profil er bekræftet falsk bliver den tilføjet denne listen. Profilen er dermed ikke længere synlig på pågældende annoncesite. Simpel, effektivt og godt.
 
+Tilføj listen til uBlock Origin i Indstillinger > 3rd-party filters > Custom og angive https://raw.githubusercontent.com/RidderRoland/rolandsliste/master/rolandsfilter.txt
+
+Aktuelt fjernes reklamer fra følgendes sites
+*sexpiger.dk
+*massage24-7.dk
+*escort5.dk
+*annoncelight.dk
+
