@@ -20,3 +20,4 @@ escort5.dk##.box-soeg:nth-of-type(5)
 
 !Fjern eroguide.dk klamme billeder
 ||www.eroguide.dk/forum/uploads/monthly_*/
+###ipsLayout_sidebar
